@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DMQ"]
+	path = DMQ
+	url = https://github.com/cran/DMQ
 [submodule "GAS"]
 	path = GAS
 	url = https://github.com/leopoldocatania/gas
+[submodule "eDMA"]
+	path = eDMA
+	url = https://github.com/cran/eDMA

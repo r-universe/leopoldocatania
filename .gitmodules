@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "MCS"]
 	path = MCS
-	url = https://github.com/cran/MCS
+	url = https://github.com/leopoldocatania/mcs
 [submodule "eDMA"]
 	path = eDMA
-	url = https://github.com/cran/eDMA
+	url = https://github.com/leopoldocatania/edma
